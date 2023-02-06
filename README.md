@@ -16,5 +16,6 @@ I have a strong understanding of Python and its various libraries, including Num
 
 I am eager to bring my skills and experience to your team and help drive the success of your projects. Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
 
-Sincerely, 
+
+Sincerely,
 Asadulla.
