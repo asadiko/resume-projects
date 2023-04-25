@@ -16,6 +16,7 @@ I have a strong understanding of Python and its various libraries, including Num
    9. AI powered chess game with GUI.
    10. Chess User vs User game with GUI.
    11. Student's Library Project
+   12. YasirMebel is a Web project developed in JS, Html and CSS. It's a web store with a link to telegram bot with a new feature named telegram web store where you can buy furniture.
 
 I am eager to bring my skills and experience to your team and help drive the success of your projects. Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
 
